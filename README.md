@@ -17,8 +17,8 @@ Analisar dados disponibilizados pelo SUSEP sobre seguros.
 <li> SES_UF2.csv </li>
 <li> Ses_grupos_economicos.csv</li>
 
-Todos os dados disponíveis em: https://www2.susep.gov.br/menuestatistica/ses/principal.aspx
-Download realizado em: 25/08/2023
+- Todos os dados disponíveis em: https://www2.susep.gov.br/menuestatistica/ses/principal.aspx
+- Download realizado em: 25/08/2023
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/mayumi-kobayashi/
